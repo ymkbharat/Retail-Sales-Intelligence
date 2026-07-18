@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence Dashboard",
+  "description": "A comprehensive React-based dashboard for retail sales analysis, featuring Excel/CSV uploading, dynamic filters, KPI tracking, and interactive visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
